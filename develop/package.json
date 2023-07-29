@@ -1,0 +1,19 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "application to make svg logos with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+  },
+  "devDependencies": {
+    "jest": "^8.1.3"
+  }
+
+}
