@@ -30,12 +30,10 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
     if (license !== "") {
-        return `## License
-     This project is licensed under the ${renderLicenseLink(license)} license.`;
+    return `This project is licensed under the ${renderLicenseLink(license)} license.`;
     }
     else {
-        return `## License
-      This project is not licensed.`;
+    return `This project is not licensed.`;
     }
 };
 
@@ -61,6 +59,7 @@ function generateMarkdown(data) {
  ${data.usage}
  ## Tests
  ${data.test}
+ ## License
  ${renderLicenseSection(data.license)}
  ## Github Repository
  ${data.github}

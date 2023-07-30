@@ -15,18 +15,18 @@
  ## Installation
  ccc
  ## Usage
- ccc
+ cc
  ## Tests
  ccc
  ## License
-     This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
  ## Github Repository
- ccc
+ cc
  ## Resources and Contributors
- ccc
+ cc
  ## LinkedIn
  ccc
  ## Email
- cc
+ ccc
     
   
