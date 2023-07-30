@@ -50,7 +50,7 @@ function generateMarkdown(data) {
   * [License](#license)
   * [Github](#github)
   * [Resources and Contributors](#resources-and-contributors)
-  * [LinkedIn](#linkedin)
+  * [Link](#link)
   * [Email](#email)
   
  ## Installation
@@ -65,7 +65,7 @@ function generateMarkdown(data) {
  ${data.github}
  ## Resources and Contributors
  ${data.contribution}
- ## LinkedIn
+ ## Link
  ${data.linkedin}
  ## Email
  ${data.email}

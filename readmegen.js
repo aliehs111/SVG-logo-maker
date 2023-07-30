@@ -39,7 +39,7 @@ const questions = [
     }, {
         type: "input",
         message: "What is the link to your deployed app?",
-        name: "linkedin"
+        name: "link"
     }, {
         type: "list",
         message: "What is your project license?",
