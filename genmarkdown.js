@@ -66,7 +66,7 @@ function generateMarkdown(data) {
  ## Resources and Contributors
  ${data.contribution}
  ## Link
- ${data.linkedin}
+ ${data.link}
  ## Email
  ${data.email}
     

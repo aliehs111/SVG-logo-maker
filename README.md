@@ -1,7 +1,7 @@
 # SVG Logo Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  An application using node.js and inquirer that generates an SVG logo based on user input for text, color and shape.  This application features an integrated readme generator.
+  An application that generates a quick SVG logo based on user input for text, color, and shape.  This app uses node.js and features an integrated readme generator.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -9,22 +9,22 @@
   * [License](#license)
   * [Github](#github)
   * [Resources and Contributors](#resources-and-contributors)
-  * [LinkedIn](#linkedin)
+  * [Link](#link)
   * [Email](#email)
   
  ## Installation
- Be sure to be running node.js, open integrated terminal index.js file and run npm i then node index.js.  To update your readme, use node readmegen.js and follow the instructions
+ User must be running node.js.  Run node at index.js and follow prompts.  For readme generator, run node at readmegen.js.
  ## Usage
- for developers who need a quick efficient way to generate a simple logo for a project
+ For developers to generate a quick logo for a client.  This app could be better developed with a graphic interface for the client to use.
  ## Tests
- There are two tests - one for shapes and one for the SVG graphics. These test are based on dependency for jest.      
+ There are two tests - one for shapes and one for SVG graphics.  Run npm test for both tests to run at the same time.
  ## License
  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
  ## Github Repository
  aliehs111
  ## Resources and Contributors
- class videos
- ## LinkedIn
+ Reviewing class videos and various online resources such as Slack Overflow.
+ ## Link
  not deployed
  ## Email
  smcgov11.11@gmail.com
