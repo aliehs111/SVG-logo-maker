@@ -1,7 +1,7 @@
-# ccc
+# SVG Logo Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  ccc
+  An application that generates and SVG logo based on user input for text, color and shape.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,20 +13,20 @@
   * [Email](#email)
   
  ## Installation
- ccc
+ Be sure to be running node.js, open integrated terminal index.js file 	
  ## Usage
- cc
+ for developers who need a quick efficient way to generate a simple logo for a project
  ## Tests
- ccc
+ there are two tests - one for shapes and one for the SVG graphic    
  ## License
  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
  ## Github Repository
- cc
+ aliehs111
  ## Resources and Contributors
- cc
+ class videos
  ## LinkedIn
- ccc
+ not deployed
  ## Email
- ccc
+ smcgov11.11@gmail.com
     
   
