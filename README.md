@@ -21,12 +21,15 @@
  ## License
  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
  ## Github Repository
- aliehs111
+ https://github.com/aliehs111/SVG-logo-maker
  ## Resources and Contributors
  Reviewing class videos and various online resources such as Slack Overflow.
  ## Link and Visuals
- ![alt text](/images/Screenshot%202023-07-30%20at%206.05.28%20PM.png)
  Link to walk-through video:  https://drive.google.com/file/d/12PMKy4RHBleAi5FOKG2RH-FANUbQoEHL/view
+
+ 
+ ![alt text](/images/Screenshot%202023-07-30%20at%206.05.28%20PM.png)
+ 
  ## Email
  smcgov11.11@gmail.com
     
